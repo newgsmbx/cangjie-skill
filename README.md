@@ -107,6 +107,15 @@ RIA-TV++ 这个名字拆开看：
 | [qbdx-hub/zhouyi-skill](https://github.com/qbdx-hub/zhouyi-skill) | 《周易》 | 8 |
 | [qbdx-hub/high-math-vol1-ch1-skill](https://github.com/qbdx-hub/high-math-vol1-ch1-skill) | 高等数学上册第一章 | 8 |
 
+## 视频蒸馏区
+
+这些仓库来自长视频、课程或视频合集的字幕/转写文本，适合展示 cangjie-skill 对非书籍内容的方法论蒸馏能力。
+
+| 仓库 | 来源 | Skills 数 |
+|------|------|-----------|
+| [ai-for-everyone-skill](https://github.com/kangarooking/ai-for-everyone-skill) | 吴恩达《AI for Everyone / 给所有人的 AI 入门课》视频课程 | 25 |
+| [loop-engineering-skill](https://github.com/kangarooking/loop-engineering-skill) | Loop Engineering 长视频合集 | 8 |
+
 后续计划蒸馏更多高价值书籍。候选书单包括但不限于：君主论。
 
 补充外部来源（经对方作者同意引入）：
